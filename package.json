@@ -1,0 +1,19 @@
+{
+  "name": "pvmmixer",
+  "version": "0.0.0",
+  "description": "PV's message mixer (Codecademy)!",
+  "main": "message-mixer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PetrVorlicek/MessageMixer.git"
+  },
+  "author": "PV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PetrVorlicek/MessageMixer/issues"
+  },
+  "homepage": "https://github.com/PetrVorlicek/MessageMixer#readme"
+}
